@@ -20,9 +20,9 @@ Le CGI a évolué et les cinéastes cherchait à l'utiliser dans leurs films.
 
 ![marvel](media/marvel.png)
 
-# Logiciel
+# Logiciels
 
 - Maya
 - Bryce
 - LightWave 3D 
-- blender
+- Blender
